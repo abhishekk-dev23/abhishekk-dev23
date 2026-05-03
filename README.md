@@ -16,7 +16,7 @@ I enjoy designing efficient backend systems, creating smooth user experiences, a
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekk-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.kumar.dev23@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-DSA%20Profile-blue?style=flat&logo=codeforces&logoColor=white)](https://codolio.com/profile/abhishekk-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://abhishekkumarr.netlify.app/)
 
 
 ---
