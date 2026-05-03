@@ -7,35 +7,31 @@
 ---
 
 ## 🚀 About Me
-I am a **Full-Stack Developer** focused on building **scalable, production-ready web applications** using the **MERN stack and Next.js**.  
+
+I am a **Full-Stack Developer** focused on building **scalable, production-ready web applications** using the **MERN stack and Next.js**.
 
 I enjoy designing efficient backend systems, creating smooth user experiences, and solving real-world problems through code. I also have a strong foundation in **Data Structures & Algorithms (C++)**, which helps me write optimized and clean solutions.
 
 ---
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekk-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.kumar.dev23@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://abhishekkumarr.netlify.app/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekk-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek.kumar.dev23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat)](https://abhishekkumarr.netlify.app/)
 
 ---
 
-
-## 🧰 Tech Stack 
+## 🧰 Tech Stack
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,mongodb,mysql,postgresql,firebase,docker,git,figma" alt="Primary Stack" /> </p>
 
-
 ---
-
 
 ## 🧩 DSA Tracking
+
 <p align="center"> <a href="https://codolio.com/profile/abhishekk-dev"> <img src="https://img.shields.io/badge/Codolio-DSA%20Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> </p> <p align="center"> <strong>Consistently solving Data Structures & Algorithms problems to strengthen problem-solving skills and coding efficiency.</strong> </p>
 
-
 ---
-
 
 # 📊 GitHub Stats:
 
@@ -64,11 +60,10 @@ I enjoy designing efficient backend systems, creating smooth user experiences, a
 ---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=abhishekk-dev23&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=130&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontAlignY=70&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer" />
